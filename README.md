@@ -1,6 +1,6 @@
 # Jose Estrada - Software Engineer
 
-Hello World, I'm Jose! 👋🏽 A passionate Software Engineering student at **Universidad Estatal de Sonora** who loves designing and building Desktop, Mobile and Web apps from **Sonora, México**.
+Hello World, I'm Jose! 👋🏽 A passionate Software Engineering student at **Universidad Estatal de Sonora** who loves designing and building apps from **Sonora, México**.
 
 **I'm currently looking for an internship!** 😁
 
@@ -10,6 +10,10 @@ Hello World, I'm Jose! 👋🏽 A passionate Software Engineering student at **U
 [![alt text][4.1]][4]
 [![alt text][5.1]][5]
 [![alt text][6.1]][6]
+
+![](https://visitor-badge.laobi.icu/badge?page_id=nadiemedicejose.nadiemedicejose) [![Github](https://img.shields.io/github/followers/nadiemedicejose?label=Follow&style=social)](https://github.com/nadiemedicejose)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadiemedicejose&theme=omni) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nadiemedicejose&show_icons=true&theme=omni)
 
 [1.1]: /tags/Portfolio.png "Portfolio icon button"
 [2.1]: /tags/LinkedIn.png "LinkedIn icon button"
