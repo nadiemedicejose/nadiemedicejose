@@ -1,6 +1,6 @@
 # Jose Estrada - Software Engineer
 
-Hello World, I'm Jose! 👋🏽 A passionate Software Engineering student at **Universidad Estatal de Sonora** who loves designing and building apps from **Sonora, México**.
+Hello World, I'm Jose! 👋🏽 A passionate Software Engineering student at **Universidad Estatal de Sonora** who loves films, designing and building apps from **Sonora, México**.
 
 **I'm currently looking for an internship!** 😁
 
@@ -14,6 +14,24 @@ Hello World, I'm Jose! 👋🏽 A passionate Software Engineering student at **U
 ![](https://visitor-badge.laobi.icu/badge?page_id=nadiemedicejose.nadiemedicejose) [![Github](https://img.shields.io/github/followers/nadiemedicejose?label=Follow&style=social)](https://github.com/nadiemedicejose)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadiemedicejose&theme=omni) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nadiemedicejose&show_icons=true&theme=omni)
+
+# What am I doing?
+
+📒 I’m currently enrolled in the **Diplomado en Educación Financiera**’s 38th Generation by CONDUSEF. 💸
+
+🚩 Started **JavaScript Algorithms and Data Structures Certification** on February 2nd, 2021.
+
+✅ Basic JavaScript (Feb 3rd)
+
+✅ ES6 (Feb 8th)
+
+✅ Regular Expressions (Feb 25th)
+
+✅ Debugging (Feb 25th)
+
+✅ Basic Data Structures (Mar 9th)
+
+🔒 Basic Algorithm Scripting (current)
 
 [1.1]: /tags/Portfolio.png "Portfolio icon button"
 [2.1]: /tags/LinkedIn.png "LinkedIn icon button"
