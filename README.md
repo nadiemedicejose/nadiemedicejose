@@ -13,7 +13,14 @@ Hello World, I'm Jose! 👋🏽 A passionate Software Engineering student at **U
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=nadiemedicejose.nadiemedicejose) [![Github](https://img.shields.io/github/followers/nadiemedicejose?label=Follow&style=social)](https://github.com/nadiemedicejose)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadiemedicejose&theme=omni) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nadiemedicejose&show_icons=true&theme=omni)
+<a href="https://github.com/nadiemedicejose">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadiemedicejose&title_color=F3B8C6&theme=dracula" />
+</a>
+<a href="https://github.com/nadiemedicejose">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nadiemedicejose&title_color=F3B8C6&show_icons=true&count_private=true&theme=dracula" />
+</a>
+
+<br></br>
 
 # What am I doing?
 
@@ -22,15 +29,15 @@ Hello World, I'm Jose! 👋🏽 A passionate Software Engineering student at **U
 🚩 Started **JavaScript Algorithms and Data Structures Certification** on February 2nd, 2021.
 
 ✅ Basic JavaScript (Feb 3rd)
-
+<br>
 ✅ ES6 (Feb 8th)
-
+<br>
 ✅ Regular Expressions (Feb 25th)
-
+<br>
 ✅ Debugging (Feb 25th)
-
+<br>
 ✅ Basic Data Structures (Mar 9th)
-
+<br>
 🔒 Basic Algorithm Scripting (current)
 
 [1.1]: /tags/Portfolio.png "Portfolio icon button"
@@ -44,5 +51,5 @@ Hello World, I'm Jose! 👋🏽 A passionate Software Engineering student at **U
 [2]: https://www.linkedin.com/in/nadiemedicejose/
 [3]: https://nadiemedicejose.github.io/resume.pdf
 [4]: mailto:j.estrada49@icloud.com
-[5]: https://medium.com/@nadiemedicejose
+[5]: https://nadiemedicejose.medium.com
 [6]: https://dribbble.com/nadiemedicejose
