@@ -47,9 +47,9 @@ Hello World, I'm Jose! 👋🏽 A passionate Software Engineering student at **U
 [5.1]: /tags/Medium.png "Medium icon button"
 [6.1]: /tags/Dribbble.png "Dribble icon button"
 
-[1]: https://nadiemedicejose.github.io
+[1]: https://nadiemedicejose.netlify.app
 [2]: https://www.linkedin.com/in/nadiemedicejose/
-[3]: https://nadiemedicejose.github.io/resume.pdf
+[3]: https://drive.google.com/file/d/1yrHf5Ih6bHfTnGi5nTcJVWxMQnFs4TlA/view?usp=sharing
 [4]: mailto:j.estrada49@icloud.com
 [5]: https://nadiemedicejose.medium.com
 [6]: https://dribbble.com/nadiemedicejose
