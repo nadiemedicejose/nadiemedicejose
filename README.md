@@ -26,19 +26,22 @@ Hello World, I'm Jose! 👋🏽 A passionate Software Engineering student at **U
 
 📒 I’m currently enrolled in the **Diplomado en Educación Financiera**’s 38th Generation by CONDUSEF. 💸
 
+✅ MODULO I. Importancia de la Educación Financiera y su contexto 💯<br>
+🔒 MODULO II. Componentes de la Educación Financiera <br>
+🔒 MODULO III. La Educación Financiera y las Nuevas Tecnologías
+
 🚩 Started **JavaScript Algorithms and Data Structures Certification** on February 2nd, 2021.
 
-✅ Basic JavaScript (Feb 3rd)
-<br>
-✅ ES6 (Feb 8th)
-<br>
-✅ Regular Expressions (Feb 25th)
-<br>
-✅ Debugging (Feb 25th)
-<br>
-✅ Basic Data Structures (Mar 9th)
-<br>
-🔒 Basic Algorithm Scripting (current)
+✅ Basic JavaScript (Feb 3rd) <br>
+✅ ES6 (Feb 8th) <br>
+✅ Regular Expressions (Feb 25th) <br>
+✅ Debugging (Feb 25th) <br>
+✅ Basic Data Structures (Mar 9th) <br>
+🔒 Basic Algorithm Scripting (current) <br>
+🔒 Object-Oriented Programming (next) <br>
+🔒 Functional Programming <br>
+🔒 Intermediate Algorithm Scripting <br>
+🔒 Projects
 
 [1.1]: /tags/Portfolio.png "Portfolio icon button"
 [2.1]: /tags/LinkedIn.png "LinkedIn icon button"
