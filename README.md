@@ -37,9 +37,9 @@ Hello World, I'm Jose! 👋🏽 A passionate Software Engineering student at **U
 ✅ Regular Expressions (Feb 25th) <br>
 ✅ Debugging (Feb 25th) <br>
 ✅ Basic Data Structures (Mar 9th) <br>
-🔒 Basic Algorithm Scripting (current) <br>
-🔒 Object-Oriented Programming (next) <br>
-🔒 Functional Programming <br>
+✅ Basic Algorithm Scripting (Mar 17th) <br>
+✅ Object-Oriented Programming (Mar 18th) <br>
+🔒 Functional Programming (next) <br>
 🔒 Intermediate Algorithm Scripting <br>
 🔒 Projects
 
