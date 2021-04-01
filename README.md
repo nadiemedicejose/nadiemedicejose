@@ -31,14 +31,12 @@ Hello World, I'm Jose! 👋🏽 A passionate Software Engineering student at **U
 
 * [x] Basic HTML and HTML5 (Mar 14th)
 * [x] Basic CSS (Mar 14th)
-* [ ] Applied Visual Design (current)
+* [x] Applied Visual Design (Apr 1st)
 * [ ] Applied Accessibility
 * [ ] Responsive Web Design Principles
 * [ ] CSS Flexbox
 * [ ] CSS Grid
 * [ ] Projects
-
-<hr>
 
 ## 📒 Diplomado en Educación Financiera
 🚩 Started on February 16th, 2021.
@@ -46,8 +44,6 @@ Hello World, I'm Jose! 👋🏽 A passionate Software Engineering student at **U
 * [x] MODULO I. Importancia de la Educación Financiera y su contexto
 * [ ] MODULO II. Componentes de la Educación Financiera
 * [ ] MODULO III. La Educación Financiera y las Nuevas Tecnologías
-
-<hr>
 
 ## 📕 JavaScript Algorithms and Data Structures Certification
 🚩 Started on February 2nd, 2021.
