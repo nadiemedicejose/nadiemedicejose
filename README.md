@@ -32,9 +32,9 @@ Hello World, I'm Jose! 👋🏽 A passionate Software Engineering student at **U
 * [x] Basic HTML and HTML5 (Mar 14th)
 * [x] Basic CSS (Mar 14th)
 * [x] Applied Visual Design (Apr 1st)
-* [ ] Applied Accessibility
-* [ ] Responsive Web Design Principles
-* [ ] CSS Flexbox
+* [x] Applied Accessibility (Apr 2nd)
+* [x] Responsive Web Design Principles (Apr 3rd)
+* [ ] CSS Flexbox (started on Apr 3rd)
 * [ ] CSS Grid
 * [ ] Projects
 
