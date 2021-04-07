@@ -26,7 +26,7 @@ Hello World, I'm Jose! 👋🏽 A passionate Software Engineering student at **U
 
 # What am I doing?
 
-## Responsive Web Design Certification
+## 📗 Responsive Web Design Certification
 🚩 Started on March 10th, 2021.
 
 * [x] Basic HTML and HTML5 (Mar 14th)
@@ -34,16 +34,16 @@ Hello World, I'm Jose! 👋🏽 A passionate Software Engineering student at **U
 * [x] Applied Visual Design (Apr 1st)
 * [x] Applied Accessibility (Apr 2nd)
 * [x] Responsive Web Design Principles (Apr 3rd)
-* [ ] CSS Flexbox (started on Apr 3rd)
-* [ ] CSS Grid
-* [ ] Projects
+* [x] CSS Flexbox (Apr 3rd)
+* [x] CSS Grid (Apr 3rd)
+* [ ] Projects (2/5 Apr 6th)
 
 ## 📒 Diplomado en Educación Financiera
 🚩 Started on February 16th, 2021.
 
-* [x] MODULO I. Importancia de la Educación Financiera y su contexto
-* [ ] MODULO II. Componentes de la Educación Financiera
-* [ ] MODULO III. La Educación Financiera y las Nuevas Tecnologías
+* [x] MODULO I. Importancia de la Educación Financiera y su contexto (Mar 9th)
+* [x] MODULO II. Componentes de la Educación Financiera (Apr 6th)
+* [ ] MODULO III. La Educación Financiera y las Nuevas Tecnologías (Scheduled for Apr 27th)
 
 ## 📕 JavaScript Algorithms and Data Structures Certification
 🚩 Started on February 2nd, 2021.
