@@ -26,18 +26,6 @@ Hello World, I'm Jose! 👋🏽 A passionate Software Engineering student at **U
 
 # What am I doing?
 
-## 📗 Responsive Web Design Certification
-🚩 Started on March 10th, 2021.
-
-* [x] Basic HTML and HTML5 (Mar 14th)
-* [x] Basic CSS (Mar 14th)
-* [x] Applied Visual Design (Apr 1st)
-* [x] Applied Accessibility (Apr 2nd)
-* [x] Responsive Web Design Principles (Apr 3rd)
-* [x] CSS Flexbox (Apr 3rd)
-* [x] CSS Grid (Apr 3rd)
-* [ ] Projects (4/5 Apr 14th)
-
 ## 📒 Diplomado en Educación Financiera
 🚩 Started on February 16th, 2021.
 
@@ -45,21 +33,37 @@ Hello World, I'm Jose! 👋🏽 A passionate Software Engineering student at **U
 * [x] MODULO II. Componentes de la Educación Financiera (Apr 6th)
 * [ ] MODULO III. La Educación Financiera y las Nuevas Tecnologías (Scheduled for Apr 27th)
 
-## 📕 JavaScript Algorithms and Data Structures Certification
-🚩 Started on February 2nd, 2021.
+# Certifications
 
-🏁 Finished on March 24th, 2021.
+## 📗 Responsive Web Design
+🏆 Issued by freeCodeCamp
 
-* [x] Basic JavaScript (Feb 3rd)
-* [x] ES6 (Feb 8th)
-* [x] Regular Expressions (Feb 25th)
-* [x] Debugging (Feb 25th)
-* [x] Basic Data Structures (Mar 9th)
-* [x] Basic Algorithm Scripting (Mar 17th)
-* [x] Object-Oriented Programming (Mar 18th)
-* [x] Functional Programming (Mar 23rd)
-* [x] Intermediate Algorithm Scripting (Mar 24th)
-* [x] Projects (Mar 23rd)
+📆 (March 10th — April 15th, 2021)
+
+😺 In this Certification, I learned the basics of HTML and CSS, how to apply different elements of Visual Design, best practices for building webpages accesible to everyone and Responsive Web Design Principles to design flexible websites that can respond to different screen sizes, orientation and resolutions with Flexbox and CSS Grid.
+
+Finally, I build 5 projects to put these skills, principles and concepts to work. 
+
+* [x] Tribute Page
+* [x] Survey Form
+* [x] Product Landing Page
+* [x] Technical Documentation Page
+* [x] Personal Portfolio Page
+
+## 📕 JavaScript Algorithms and Data Structures
+🏆 Issued by freeCodeCamp
+
+📆 (February 2nd — March 24th, 2021)
+
+😺 In this Certification, I learned the fundamentals of JavaScript (variables, arrays, objects, loops, and functions), ES6 (including let and const, arrow functions, classes, promises, and modules), and Regular Expressions. Then, applied that knowledge by creating algorithms to manipulate strings and factorialize numbers. I also learned about Object Oriented Programing (OOP), and Functional Programing (including pure functions, how to avoid mutations, and how write cleaner code).
+
+Finally, I build the next projects to put these JavaScript skills to work.
+
+* [x] Palindrome Checker
+* [x] Roman Numeral Converter
+* [x] Caesars Cipher
+* [x] Telephone Number Validator
+* [x] Cash Register
 
 [1.1]: /tags/Portfolio.png "Portfolio icon button"
 [2.1]: /tags/LinkedIn.png "LinkedIn icon button"
