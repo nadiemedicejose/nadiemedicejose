@@ -36,7 +36,7 @@ Hello World, I'm Jose! 👋🏽 A passionate Software Engineering student at **U
 * [x] Responsive Web Design Principles (Apr 3rd)
 * [x] CSS Flexbox (Apr 3rd)
 * [x] CSS Grid (Apr 3rd)
-* [ ] Projects (2/5 Apr 6th)
+* [ ] Projects (4/5 Apr 14th)
 
 ## 📒 Diplomado en Educación Financiera
 🚩 Started on February 16th, 2021.
