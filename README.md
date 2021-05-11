@@ -24,6 +24,18 @@ Hello World, I'm Jose! 👋🏽 A passionate Software Engineering student at **U
 
 # What am I doing?
 
+## 📘 Front-End Development Libraries
+
+📆 (May 10th — Present)
+
+* [ ] Bootstrap (18/31 current)
+* [ ] jQuery
+* [ ] SASS
+* [ ] React
+* [ ] Redux
+* [ ] React and Redux
+* [ ] Front-End Development Libraries Projects
+
 ## 🌎 Microsoft Azure Fundamentals
 
 📆 (May 3rd — Present)
