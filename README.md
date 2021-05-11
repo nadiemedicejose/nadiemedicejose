@@ -24,6 +24,12 @@ Hello World, I'm Jose! 👋🏽 A passionate Software Engineering student at **U
 
 # What am I doing?
 
+## 🌎 Microsoft Azure Fundamentals
+
+📆 (May 3rd — Present)
+
+✈ Viajero en la 2da Edición del Ciclo Especializado en Inteligencia Artificial de Innovacción Virtual con el fin de presentar el examen AZ-900 para obtener la Certificación Azure Fundamentals de Microsoft.
+
 # Certifications
 
 ## 📒 Diplomado en Educación Financiera
