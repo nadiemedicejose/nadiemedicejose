@@ -11,8 +11,6 @@ Hello World, I'm Jose! 👋🏽 A passionate Software Engineering student at **U
 [![alt text][5.1]][5]
 [![alt text][6.1]][6]
 
-![](https://visitor-badge.laobi.icu/badge?page_id=nadiemedicejose.nadiemedicejose) [![Github](https://img.shields.io/github/followers/nadiemedicejose?label=Follow&style=social)](https://github.com/nadiemedicejose)
-
 <hr>
 
 <a href="https://github.com/nadiemedicejose">
@@ -26,14 +24,14 @@ Hello World, I'm Jose! 👋🏽 A passionate Software Engineering student at **U
 
 # What am I doing?
 
-## 📒 Diplomado en Educación Financiera
-🚩 Started on February 16th, 2021.
-
-* [x] MODULO I. Importancia de la Educación Financiera y su contexto (Mar 9th)
-* [x] MODULO II. Componentes de la Educación Financiera (Apr 6th)
-* [ ] MODULO III. La Educación Financiera y las Nuevas Tecnologías (Scheduled for Apr 27th)
-
 # Certifications
+
+## 📒 Diplomado en Educación Financiera
+🏆 Issued by CONDUSEF
+
+📆 (February 16th — May 3rd, 2021)
+
+🤑 En este Diplomado aprendí la Importancia de la Educación Financiera y su contexto, los componentes y su relación con las nuevas tecnologías. Así mismo, de las diferentes instituciones, seguros y el mercado de valores, además de desarrollar presupuestos que me han permitido gestionar mis ingresos y egresos personales.
 
 ## 📗 Responsive Web Design
 🏆 Issued by freeCodeCamp
