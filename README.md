@@ -28,9 +28,9 @@ Hello World, I'm Jose! 👋🏽 A passionate Software Engineering student at **U
 
 📆 (May 10th — Present)
 
-* [ ] Bootstrap (18/31 current)
-* [ ] jQuery
-* [ ] SASS
+* [x] Bootstrap (31/31 May 11th)
+* [x] jQuery (18/18 May 11th)
+* [ ] SASS (0/9)
 * [ ] React
 * [ ] Redux
 * [ ] React and Redux
