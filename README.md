@@ -30,8 +30,8 @@ Hello World, I'm Jose! 👋🏽 A passionate Software Engineering student at **U
 
 * [x] Bootstrap (31/31 May 11th)
 * [x] jQuery (18/18 May 11th)
-* [ ] SASS (0/9)
-* [ ] React
+* [x] SASS (09/09 May 13th)
+* [ ] React (0/47)
 * [ ] Redux
 * [ ] React and Redux
 * [ ] Front-End Development Libraries Projects
