@@ -1,8 +1,14 @@
 # Jose Estrada - Software Engineer
 
-Hello World, I'm Jose! 👋🏽 A passionate Software Engineering student at **Universidad Estatal de Sonora** who loves films, designing and building apps from **Sonora, México**.
+Hello, World! 😁
 
-**I'm currently looking for an internship!** 😁
+My name is Jose Estrada, I'm a 26-year-old student about to graduate from **Universdiad Estatal de Sonora**, and of course, this is my 2nd career.
+
+I have not a lot of professional experience, but as a **school projects team leader** I can say that my greatest achievement has been getting everyone involved because together we have excelled in many scholar projects.
+
+I'm also a **mentor to other students**, I have experience in teaching different programming languages, reading and solving a lot of bugs and enabling others to solve logic problems by themselves.
+
+**I’m interested in** finance, health, education, films, music, and of course, software development.
 
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
@@ -88,7 +94,7 @@ Finally, I build the next projects to put these JavaScript skills to work.
 [5.1]: /tags/Medium.png "Medium icon button"
 [6.1]: /tags/Dribbble.png "Dribble icon button"
 
-[1]: https://nadiemedicejose.netlify.app
+[1]: https://nadiemedicejose.web.app
 [2]: https://www.linkedin.com/in/nadiemedicejose/
 [3]: https://drive.google.com/file/d/1yrHf5Ih6bHfTnGi5nTcJVWxMQnFs4TlA/view?usp=sharing
 [4]: mailto:j.estrada49@icloud.com
