@@ -96,7 +96,7 @@ Finally, I build the next projects to put these JavaScript skills to work.
 
 [1]: https://nadiemedicejose.web.app
 [2]: https://www.linkedin.com/in/nadiemedicejose/
-[3]: https://drive.google.com/file/d/1yrHf5Ih6bHfTnGi5nTcJVWxMQnFs4TlA/view?usp=sharing
-[4]: mailto:j.estrada49@icloud.com
+[3]: https://drive.google.com/file/d/1yrHf5Ih6bHfTnGi5nTcJVWxMQnFs4TlA/view
+[4]: mailto:joseg.estrada94@gmail.com
 [5]: https://nadiemedicejose.medium.com
 [6]: https://dribbble.com/nadiemedicejose
