@@ -2,7 +2,7 @@
 
 Hello, World! 😁
 
-My name is Jose Estrada, I'm a 26-year-old student about to graduate from **Universdiad Estatal de Sonora**, and of course, this is my 2nd career.
+My name is Jose Estrada, I'm a 26-year-old Software Engineering student about to graduate from **Universdiad Estatal de Sonora**, and of course, this is my 2nd career.
 
 I have not a lot of professional experience, but as a **school projects team leader** I can say that my greatest achievement has been getting everyone involved because together we have excelled in many scholar projects.
 
