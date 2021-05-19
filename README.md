@@ -2,7 +2,7 @@
 
 Hello, World! 😁
 
-My name is Jose Estrada, I'm a 26-year-old Software Engineering student about to graduate from **Universdiad Estatal de Sonora**, and of course, this is my 2nd career.
+My name is Jose Estrada, I'm a 26-year-old Software Engineering student about to graduate from **Universidad Estatal de Sonora**, and of course, this is my 2nd career.
 
 I have not a lot of professional experience, but as a **school projects team leader** I can say that my greatest achievement has been getting everyone involved because together we have excelled in many scholar projects.
 
@@ -37,7 +37,7 @@ I'm also a **mentor to other students**, I have experience in teaching different
 * [x] Bootstrap (31/31 May 11th)
 * [x] jQuery (18/18 May 11th)
 * [x] SASS (09/09 May 13th)
-* [ ] React (0/47)
+* [ ] React (10/47 May 18th)
 * [ ] Redux
 * [ ] React and Redux
 * [ ] Front-End Development Libraries Projects
