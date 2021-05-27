@@ -38,7 +38,7 @@ I'm also a **mentor to other students**, I have experience in teaching different
 * [x] jQuery (18/18 May 11th)
 * [x] SASS (09/09 May 13th)
 * [x] React (47/47 May 24th)
-* [ ] Redux
+* [x] Redux (17/17 May 26th)
 * [ ] React and Redux
 * [ ] Front-End Development Libraries Projects
 
