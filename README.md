@@ -39,14 +39,8 @@ I'm also a **mentor to other students**, I have experience in teaching different
 * [x] SASS (09/09 May 13th)
 * [x] React (47/47 May 24th)
 * [x] Redux (17/17 May 26th)
-* [ ] React and Redux
+* [x] React and Redux (10/10 Jun 3rd)
 * [ ] Front-End Development Libraries Projects
-
-## 🌎 Microsoft Azure Fundamentals
-
-📆 (May 3rd — Present)
-
-✈ Viajero en la 2da Edición del Ciclo Especializado en Inteligencia Artificial de Innovacción Virtual con el fin de presentar el examen AZ-900 para obtener la Certificación Azure Fundamentals de Microsoft.
 
 # Certifications
 
