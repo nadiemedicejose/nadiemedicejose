@@ -30,19 +30,22 @@ I'm also a **mentor to other students**, I have experience in teaching different
 
 # What am I doing?
 
-## 📘 Front-End Development Libraries
-
-📆 (May 10th — Present)
-
-* [x] Bootstrap (31/31 May 11th)
-* [x] jQuery (18/18 May 11th)
-* [x] SASS (09/09 May 13th)
-* [x] React (47/47 May 24th)
-* [x] Redux (17/17 May 26th)
-* [x] React and Redux (10/10 Jun 3rd)
-* [ ] Front-End Development Libraries Projects
-
 # Certifications
+
+## 📘 Front End Development Libraries
+🏆 Issued by freeCodeCamp
+
+📆 (May 10th — June 16th, 2021)
+
+😺 In this Certification, I learned how to style websites quickly applying mobile-first approach using Bootstrap, add logic to CSS styles and extend them with SASS, create powerful Single Page Applications (SPAs) with React and Redux for building reusable, component-driven user interfaces and share data across different components.
+
+Finally, I build 5 projects to put these skills, principles and concepts to work. 
+
+* [x] Random Quote Machine
+* [x] Markdown Previewer
+* [x] Drum Machine
+* [x] JavaScript Calculator
+* [x] 25 + 5 Clock
 
 ## 📒 Diplomado en Educación Financiera
 🏆 Issued by CONDUSEF
