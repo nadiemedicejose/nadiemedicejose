@@ -84,16 +84,16 @@ Finally, I build the next projects to put these JavaScript skills to work.
 * [x] Telephone Number Validator
 * [x] Cash Register
 
-[1.1]: /tags/Portfolio.png "Portfolio icon button"
-[2.1]: /tags/LinkedIn.png "LinkedIn icon button"
-[3.1]: /tags/Resume.png "Resume icon button"
-[4.1]: /tags/Email.png "Email icon button"
-[5.1]: /tags/Medium.png "Medium icon button"
-[6.1]: /tags/Dribbble.png "Dribble icon button"
+[1.1]: /tags/Portfolio.png "Portfolio"
+[2.1]: /tags/LinkedIn.png "LinkedIn"
+[3.1]: /tags/Resume.png "Resume"
+[4.1]: /tags/Email.png "Email"
+[5.1]: /tags/Medium.png "Medium"
+[6.1]: /tags/Dribbble.png "Dribble"
 
 [1]: https://nadiemedicejose.web.app
 [2]: https://www.linkedin.com/in/nadiemedicejose/
-[3]: https://drive.google.com/file/d/1yrHf5Ih6bHfTnGi5nTcJVWxMQnFs4TlA/view
+[3]: https://nadiemedicejose.web.app/resume
 [4]: mailto:joseg.estrada94@gmail.com
 [5]: https://nadiemedicejose.medium.com
 [6]: https://dribbble.com/nadiemedicejose
