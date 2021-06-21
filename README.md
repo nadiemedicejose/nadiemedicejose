@@ -30,6 +30,16 @@ I'm also a **mentor to other students**, I have experience in teaching different
 
 # What am I doing?
 
+## 📘 APIs and Microservices
+🏆 Issued by freeCodeCamp
+
+📆 (June 17th — Present)
+
+* [x] Managing Packages with NPM (Week of 21st)
+* [ ] Basic Node and Express (Week of Jun 28th)
+* [ ] MongoDB and Mongoose (Week of Jul 5th)
+* [ ] API and Microservices Projects (Week of Jul 12th)
+
 # Certifications
 
 ## 📘 Front End Development Libraries
