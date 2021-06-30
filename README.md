@@ -30,6 +30,20 @@ I'm also a **mentor to other students**, I have experience in teaching different
 
 # What am I doing?
 
+## 📜 Diplomado en Desarrollo Web y Móviles utilizando Angular e IONIC
+🏫 Universidad Estatal de Sonora
+
+📆 (June 28th — August 6th, 2021)
+
+😺 OBJETIVO: Desarrollar y aplicar nuevas tecnologías emergentes de computación móvil con la finalidad de implementar soluciones Web y Móviles en las organizaciones, bajo los estándares de calidad establecidos para el desarrollo de aplicaciones Web y Móviles.
+
+El asistente será capaz de diseñar sitios web dinámicos utilizando Angular, Node JS, Boostrap, HTML y MySQL, el sitio web es de fácil indexación y es compatible con IONIC.
+Será capaz de crear aplicaciones móviles híbridas utilizando FrameWork: Angular, Sass y Cordova. Desarrollando aplicaciones para IOS, Android y Windows.
+
+* [x] Configuración del entorno Angular
+* [x] Creación de proyectos y componentes
+* [ ] Incluir Bootstrap
+
 ## 📘 APIs and Microservices
 🏆 Issued by freeCodeCamp
 
