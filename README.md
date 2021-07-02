@@ -44,17 +44,21 @@ Será capaz de crear aplicaciones móviles híbridas utilizando FrameWork: Angul
 * [x] Creación de proyectos y componentes
 * [ ] Incluir Bootstrap
 
+# Certifications
 ## 📘 APIs and Microservices
 🏆 Issued by freeCodeCamp
 
-📆 (June 17th — Present)
+📆 (June 17th — July 2nd, 2021)
 
-* [x] Managing Packages with NPM (Week of 21st)
-* [x] Basic Node and Express (Week of Jun 28th)
-* [x] MongoDB and Mongoose (Week of Jul 5th)
-* [ ] API and Microservices Projects (Week of Jul 12th)
+😺 In this Certification, I learned how to write back end with Node.js, npm (Node Package Manager), the Express framework, and MongoDB (non-relational or "NoSQL" database that stores JSON documents). Working with npm and the package.json helped me to understand how to manage project dependencies. Also, I used some built-in modules from Node.js to work with HTTP and the request/response cycle and the Express framework to create a server and handle routing for applications.
 
-# Certifications
+Finally, I build 5 projects to put these skills, principles and concepts to work.
+
+* [x] [Timestamp](https://timestamp.nadiemedicejose.repl.co)
+* [x] [Request Header Parser](https://headerparser.nadiemedicejose.repl.co)
+* [x] [URL Shortener](https://urlshortener.nadiemedicejose.repl.co)
+* [x] [Exercise Tracker](https://exercisetracker.nadiemedicejose.repl.co)
+* [x] [File Metadata](https://filemetadata.nadiemedicejose.repl.co)
 
 ## 📘 Front End Development Libraries
 🏆 Issued by freeCodeCamp
