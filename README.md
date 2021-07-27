@@ -1,14 +1,6 @@
-# Jose Estrada - Software Engineer
+# Jose Estrada | Software Engineer
 
-Hello, World! 😁
-
-My name is Jose Estrada, I'm a 26-year-old Software Engineering student about to graduate from **Universidad Estatal de Sonora**, and of course, this is my 2nd career.
-
-I have not a lot of professional experience, but as a **school projects team leader** I can say that my greatest achievement has been getting everyone involved because together we have excelled in many scholar projects.
-
-I'm also a **mentor to other students**, I have experience in teaching different programming languages, reading and solving a lot of bugs and enabling others to solve logic problems by themselves.
-
-**I’m interested in** finance, health, education, films, music, and of course, software development.
+Hi, thanks for getting interested in my profile! I'm a recent graduate from Software Engineering, and I'm looking to be part of a team where I can put my JavaScript, React and other Front-End skills to work. I have experience as a team leader, where I actively collaborate in different stages of software development lifecycle. Former mentor to other students through Programa de Apoyo y Seguimiento Academico. Feel free to explore my LinkedIn profile, portfolio & other links. 😉
 
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
@@ -122,6 +114,6 @@ Finally, I build the next projects to put these JavaScript skills to work.
 [1]: https://nadiemedicejose.web.app
 [2]: https://www.linkedin.com/in/nadiemedicejose/
 [3]: https://nadiemedicejose.web.app/resume
-[4]: mailto:joseg.estrada94@gmail.com
+[4]: mailto:j.estrada49@gmail.com
 [5]: https://nadiemedicejose.medium.com
 [6]: https://dribbble.com/nadiemedicejose
