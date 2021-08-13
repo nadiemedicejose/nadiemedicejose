@@ -1,6 +1,14 @@
-# Jose Estrada | Software Engineer
+# Jose Estrada - Software Engineer
 
-Hi, thanks for getting interested in my profile! I'm a recent graduate from Software Engineering, and I'm looking to be part of a team where I can put my JavaScript, React and other Front-End skills to work. I have experience as a team leader, where I actively collaborate in different stages of software development lifecycle. Former mentor to other students through Programa de Apoyo y Seguimiento Academico. Feel free to explore my LinkedIn profile, portfolio & other links. 😉
+Hello, World! 😁
+
+My name is Jose Estrada, I'm a 26-year-old Software Engineering student about to graduate from **Universidad Estatal de Sonora**, and of course, this is my 2nd career.
+
+As a **school projects team leader** I can say that my greatest achievement has been getting everyone involved because together we have excelled in many scholar projects.
+
+I'm also a **mentor to other students**, I have experience in teaching different programming languages, reading and solving a lot of bugs and enabling others to solve logic problems by themselves.
+
+**I’m interested in** finance, health, education, films, music, and of course, software development.
 
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
@@ -22,27 +30,22 @@ Hi, thanks for getting interested in my profile! I'm a recent graduate from Soft
 
 # What am I doing?
 
-## 📜 Diplomado en Desarrollo Web y Móviles utilizando Angular e IONIC
-🏫 Universidad Estatal de Sonora
+
+
+# Certifications
+## 📔 Diplomado en Desarrollo Web y Móviles utilizando Angular e IONIC
+🏫 Issued by Universidad Estatal de Sonora
 
 📆 (June 28th — August 6th, 2021)
 
-😺 OBJETIVO: Desarrollar y aplicar nuevas tecnologías emergentes de computación móvil con la finalidad de implementar soluciones Web y Móviles en las organizaciones, bajo los estándares de calidad establecidos para el desarrollo de aplicaciones Web y Móviles.
+😺 I learn how to implement text interpolation, pipes, property bindings, event and two-way bindings. Used different directives for components (*directives with a template*), attributes (*to listen and modify behavior of other HTML elements, attributes, properties, and components*) and structure (*change the DOM layout by managing DOM elements*) to add additional behavior to forms, list, styles and other elements. Dependency injection for services in component's constructor and other services; routing to navigate between pages or tabs. Also, we used Firebase Realtime Database and Firestore to interact with No-SQL databases. And finally, deployed our apps using Firebase Hosting. Working with IONIC, I also learned how to prepare for release by signing our app and generate APK package ready to upload to the Play Console.
 
-El asistente será capaz de diseñar sitios web dinámicos utilizando Angular, Node JS, Boostrap, HTML y MySQL, el sitio web es de fácil indexación y es compatible con IONIC.
-Será capaz de crear aplicaciones móviles híbridas utilizando FrameWork: Angular, Sass y Cordova. Desarrollando aplicaciones para IOS, Android y Windows.
-
-* [x] Configuración del entorno Angular
-* [x] Creación de proyectos y componentes
-* [ ] Incluir Bootstrap
-
-# Certifications
 ## 📘 APIs and Microservices
 🏆 Issued by freeCodeCamp
 
 📆 (June 17th — July 2nd, 2021)
 
-😺 In this Certification, I learned how to write back end with Node.js, npm (Node Package Manager), the Express framework, and MongoDB (non-relational or "NoSQL" database that stores JSON documents). Working with npm and the package.json helped me to understand how to manage project dependencies. Also, I used some built-in modules from Node.js to work with HTTP and the request/response cycle and the Express framework to create a server and handle routing for applications.
+😺 In this Certification, I learned how to write back end with Node.js, npm (*Node Package Manager*), the Express framework, and MongoDB (*non-relational or "NoSQL" database that stores JSON documents*). Working with npm and the package.json helped me to understand how to manage project dependencies. Also, I used some built-in modules from Node.js to work with HTTP and the request/response cycle and the Express framework to create a server and handle routing for applications.
 
 Finally, I build 5 projects to put these skills, principles and concepts to work.
 
@@ -57,7 +60,7 @@ Finally, I build 5 projects to put these skills, principles and concepts to work
 
 📆 (May 10th — June 16th, 2021)
 
-😺 In this Certification, I learned how to style websites quickly applying mobile-first approach using Bootstrap, add logic to CSS styles and extend them with SASS, create powerful Single Page Applications (SPAs) with React and Redux for building reusable, component-driven user interfaces and share data across different components.
+😺 In this Certification, I learned how to style websites quickly applying mobile-first approach using Bootstrap, add logic to CSS styles and extend them with SASS, create powerful SPAs (*Single Page Applications*) with React and Redux for building reusable, component-driven user interfaces and share data across different components.
 
 Finally, I build 5 projects to put these skills, principles and concepts to work. 
 
@@ -94,7 +97,7 @@ Finally, I build 5 projects to put these skills, principles and concepts to work
 
 📆 (February 2nd — March 24th, 2021)
 
-😺 In this Certification, I learned the fundamentals of JavaScript (variables, arrays, objects, loops, and functions), ES6 (including let and const, arrow functions, classes, promises, and modules), and Regular Expressions. Then, applied that knowledge by creating algorithms to manipulate strings and factorialize numbers. I also learned about Object Oriented Programing (OOP), and Functional Programing (including pure functions, how to avoid mutations, and how write cleaner code).
+😺 In this Certification, I learned the fundamentals of JavaScript (*variables, arrays, objects, loops, and functions*), ES6 (*including let and const, arrow functions, classes, promises, and modules*), and Regular Expressions. Then, applied that knowledge by creating algorithms to manipulate strings and factorialize numbers. I also learned about OOP (*Object Oriented Programing*), and Functional Programing (*including pure functions, how to avoid mutations, and how write cleaner code*).
 
 Finally, I build the next projects to put these JavaScript skills to work.
 
@@ -114,6 +117,6 @@ Finally, I build the next projects to put these JavaScript skills to work.
 [1]: https://nadiemedicejose.web.app
 [2]: https://www.linkedin.com/in/nadiemedicejose/
 [3]: https://nadiemedicejose.web.app/resume
-[4]: mailto:j.estrada49@gmail.com
+[4]: mailto:joseg.estrada94@gmail.com
 [5]: https://nadiemedicejose.medium.com
 [6]: https://dribbble.com/nadiemedicejose
