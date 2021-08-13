@@ -1,14 +1,6 @@
-# Jose Estrada - Software Engineer
+# Jose Estrada | Software Engineer
 
-Hello, World! 😁
-
-My name is Jose Estrada, I'm a 26-year-old Software Engineering student about to graduate from **Universidad Estatal de Sonora**, and of course, this is my 2nd career.
-
-As a **school projects team leader** I can say that my greatest achievement has been getting everyone involved because together we have excelled in many scholar projects.
-
-I'm also a **mentor to other students**, I have experience in teaching different programming languages, reading and solving a lot of bugs and enabling others to solve logic problems by themselves.
-
-**I’m interested in** finance, health, education, films, music, and of course, software development.
+Hi, thanks for getting interested in my profile! I'm a recent graduate from Software Engineering, and I'm looking to be part of a team where I can put my JavaScript, React and other Front-End skills to work. I have experience as a team leader, where I actively collaborate in different stages of software development lifecycle. Former mentor to other students through Programa de Apoyo y Seguimiento Academico. Feel free to explore my LinkedIn profile, portfolio & other links. 😉
 
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
@@ -49,11 +41,11 @@ I'm also a **mentor to other students**, I have experience in teaching different
 
 Finally, I build 5 projects to put these skills, principles and concepts to work.
 
-* [x] [Timestamp](https://timestamp.nadiemedicejose.repl.co)
-* [x] [Request Header Parser](https://headerparser.nadiemedicejose.repl.co)
-* [x] [URL Shortener](https://urlshortener.nadiemedicejose.repl.co)
-* [x] [Exercise Tracker](https://exercisetracker.nadiemedicejose.repl.co)
-* [x] [File Metadata](https://filemetadata.nadiemedicejose.repl.co)
+* [x] [Timestamp][7]
+* [x] [Request Header Parser][8]
+* [x] [URL Shortener][9]
+* [x] [Exercise Tracker][10]
+* [x] [File Metadata][11]
 
 ## 📘 Front End Development Libraries
 🏆 Issued by freeCodeCamp
@@ -117,6 +109,12 @@ Finally, I build the next projects to put these JavaScript skills to work.
 [1]: https://nadiemedicejose.web.app
 [2]: https://www.linkedin.com/in/nadiemedicejose/
 [3]: https://nadiemedicejose.web.app/resume
-[4]: mailto:joseg.estrada94@gmail.com
+[4]: mailto:j.estrada49@icloud.com
 [5]: https://nadiemedicejose.medium.com
 [6]: https://dribbble.com/nadiemedicejose
+
+[7]: https://timestamp.nadiemedicejose.repl.co
+[8]: https://headerparser.nadiemedicejose.repl.co
+[9]: https://urlshortener.nadiemedicejose.repl.co
+[10]: https://exercisetracker.nadiemedicejose.repl.co
+[11]: https://filemetadata.nadiemedicejose.repl.co
