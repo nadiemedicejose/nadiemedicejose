@@ -1,6 +1,10 @@
 # Jose Estrada | Software Engineer
 
-Hi, thanks for getting interested in my profile! I'm a recent graduate from Software Engineering, and I'm looking to be part of a team where I can put my JavaScript, React and other Front-End skills to work. I have experience as a team leader, where I actively collaborate in different stages of software development lifecycle. Former mentor to other students through Programa de Apoyo y Seguimiento Academico. Feel free to explore my LinkedIn profile, portfolio & other links. 😉
+Hi, thanks for getting interested in my profile! 👋🏽
+
+I'm a Software Engineer with knowledge in Object-Oriented Programming, Design Patterns, Data Structures, and Databases. I have experience with Desktop Applications Development using Java and C#; Web and Mobile Dev using React, Angular, IONIC, and Flutter frameworks. Also, I have been a leader in Development Teams, where I actively collaborated in different stages of the Software Development Life Cycle. At college, I offered mentorship to other students through PASA Program (Academic Support and Follow-up Program).
+
+Feel free to explore my LinkedIn profile, portfolio & other links. 😉
 
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
