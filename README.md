@@ -49,6 +49,7 @@ Universidad de Sonora | Aug 2013 — Dec 2015
 * May 2021: *"Diplomado en Educación Financiera"*, issued by CONDUSEF
 * April 2021: *"Responsive Web Design"*, issued by freeCodeCamp
 * March 2021: *"JavaScript Algorithms and Data Structures"*, issued by freeCodeCamp
+* November 2020: *"Taller de Python"*, issued by Universidad Estatal de Sonora
 * October 2020: *"Web Applications for Everybody Specialization"*, issued by Coursera
 * October 2020: *"JavaScript, jQuery, and JSON"*, issued by Coursera
 * July 2020: *"Building Database Applications in PHP"*, issued by Coursera
