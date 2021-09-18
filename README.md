@@ -16,10 +16,10 @@ Feel free to explore my LinkedIn profile, portfolio & other links. 😉
 <hr>
 
 <a href="https://github.com/nadiemedicejose">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadiemedicejose&title_color=F3B8C6&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadiemedicejose&title_color=FFF&bg_color=000&theme=dark" />
 </a>
 <a href="https://github.com/nadiemedicejose">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nadiemedicejose&title_color=F3B8C6&show_icons=true&count_private=true&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nadiemedicejose&title_color=FFF&bg_color=000&show_icons=true&count_private=true&theme=dark" />
 </a>
 
 <hr>
