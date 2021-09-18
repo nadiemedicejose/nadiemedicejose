@@ -32,11 +32,17 @@ Feel free to explore my LinkedIn profile, portfolio & other links. 😉
 📚 Learning about Data Visualization and Scrum Framework
 
 # Education
-## B.S. in Sofware Engineering, GPA 97
-Universidad Estatal de Sonora | Aug 2017 — May 2021
+**B.S. in Sofware Engineering, GPA 97**
 
-## B.S. in Communication
-Universidad de Sonora | Aug 2013 — Dec 2015
+Universidad Estatal de Sonora
+
+Aug 2017 — May 2021
+
+**B.S. in Communication**
+
+Universidad de Sonora
+
+Aug 2013 — Dec 2015
 
 # Certifications
 * September 2021: *"Agile at Work: Planning with Agile User Stories"*, issued by LinkedIn Learning
