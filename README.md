@@ -45,6 +45,7 @@ Universidad de Sonora
 Aug 2013 — Dec 2015
 
 # Certifications
+* September 2021: *"Learning Node.js"*, issued by LinkedIn Learning
 * September 2021: *"Agile at Work: Planning with Agile User Stories"*, issued by LinkedIn Learning
 * September 2021: *"Scrum: The Basics"*, issued by LinkedIn Learning
 * September 2021: *"Angular: Building Large Applications"*, issued by LinkedIn Learning
