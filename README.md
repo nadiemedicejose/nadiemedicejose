@@ -29,7 +29,7 @@ Feel free to explore my LinkedIn profile, portfolio & other links. 😉
 
 🌱 Looking for a job
 
-📚 Learning about Data Visualization and Scrum Framework
+📚 Learning about Data Visualization and Node.js
 
 # Education
 **B.S. in Sofware Engineering, GPA 97**
@@ -45,6 +45,8 @@ Universidad de Sonora
 Aug 2013 — Dec 2015
 
 # Certifications
+* September 2021: *"Learning npm the Node Package Manager"*, issued by LinkedIn Learning
+* September 2021: *"Node.js Essential Training"*, issued by LinkedIn Learning
 * September 2021: *"Learning Node.js"*, issued by LinkedIn Learning
 * September 2021: *"Agile at Work: Planning with Agile User Stories"*, issued by LinkedIn Learning
 * September 2021: *"Scrum: The Basics"*, issued by LinkedIn Learning
