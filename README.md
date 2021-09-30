@@ -45,9 +45,16 @@ Universidad de Sonora
 Aug 2013 — Dec 2015
 
 # Certifications
+* September 2021: *"Node.js: Securing RESTful APIs"*, issued by LinkedIn Learning
+* September 2021: *"Node.js: Security"*, issued by LinkedIn Learning
+* September 2021: *"Building RESTful APIs with Node.js and Express"*, issued by LinkedIn Learning
+* September 2021: *"Databases for Node.js Developers"*, issued by LinkedIn Learning
+* September 2021: *"Building a Website with Node.js and Express.js"*, issued by LinkedIn Learning
+* September 2021: *"Express Essential Training"*, issued by LinkedIn Learning
 * September 2021: *"Learning npm the Node Package Manager"*, issued by LinkedIn Learning
 * September 2021: *"Node.js Essential Training"*, issued by LinkedIn Learning
 * September 2021: *"Learning Node.js"*, issued by LinkedIn Learning
+* September 2021: *"Overcoming Your Fear of Public Speaking"*, issued by LinkedIn Learning
 * September 2021: *"Agile at Work: Planning with Agile User Stories"*, issued by LinkedIn Learning
 * September 2021: *"Scrum: The Basics"*, issued by LinkedIn Learning
 * September 2021: *"Angular: Building Large Applications"*, issued by LinkedIn Learning
