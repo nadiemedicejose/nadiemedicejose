@@ -38,41 +38,6 @@ Universidad Estatal de Sonora
 
 Aug 2017 — May 2021
 
-**B.S. in Communication**
-
-Universidad de Sonora
-
-Aug 2013 — Dec 2015
-
-# Certifications
-* September 2021: *"Node.js: Securing RESTful APIs"*, issued by LinkedIn Learning
-* September 2021: *"Node.js: Security"*, issued by LinkedIn Learning
-* September 2021: *"Building RESTful APIs with Node.js and Express"*, issued by LinkedIn Learning
-* September 2021: *"Databases for Node.js Developers"*, issued by LinkedIn Learning
-* September 2021: *"Building a Website with Node.js and Express.js"*, issued by LinkedIn Learning
-* September 2021: *"Express Essential Training"*, issued by LinkedIn Learning
-* September 2021: *"Learning npm the Node Package Manager"*, issued by LinkedIn Learning
-* September 2021: *"Node.js Essential Training"*, issued by LinkedIn Learning
-* September 2021: *"Learning Node.js"*, issued by LinkedIn Learning
-* September 2021: *"Overcoming Your Fear of Public Speaking"*, issued by LinkedIn Learning
-* September 2021: *"Agile at Work: Planning with Agile User Stories"*, issued by LinkedIn Learning
-* September 2021: *"Scrum: The Basics"*, issued by LinkedIn Learning
-* September 2021: *"Angular: Building Large Applications"*, issued by LinkedIn Learning
-* August 2021: *"Universidad Angular 2021"*, issued by Udemy
-* August 2021: *"Diplomado en Desarrollo Web y Móviles"*, issued by Universidad Estatal de Sonora
-* July 2021: *"APIs and Microservices"*, issued by freeCodeCamp
-* June 2021: *"Front End Development Libraries"*, issued by freeCodeCamp
-* May 2021: *"Diplomado en Educación Financiera"*, issued by CONDUSEF
-* April 2021: *"Responsive Web Design"*, issued by freeCodeCamp
-* March 2021: *"JavaScript Algorithms and Data Structures"*, issued by freeCodeCamp
-* November 2020: *"Taller de Python"*, issued by Universidad Estatal de Sonora
-* October 2020: *"Web Applications for Everybody Specialization"*, issued by Coursera
-* October 2020: *"JavaScript, jQuery, and JSON"*, issued by Coursera
-* July 2020: *"Building Database Applications in PHP"*, issued by Coursera
-* July 2020: *"Building Web Applications in PHP"*, issued by Coursera
-* July 2020: *"Introduction to Structured Query Language (SQL)"*, issued by Coursera
-* February 2020: *"HTML & CSS: Creating Forms"*, issued by LinkedIn Learning
-
 
 [1.1]: /tags/Portfolio.png "Portfolio"
 [2.1]: /tags/LinkedIn.png "LinkedIn"
