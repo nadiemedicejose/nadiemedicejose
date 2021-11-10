@@ -13,6 +13,10 @@ Feel free to explore my LinkedIn profile, portfolio & other links. 😉
 [![alt text][5.1]][5]
 [![alt text][6.1]][6]
 
+# What am I doing?
+
+📚 Learning about Laravel & Data Visualization
+
 <hr>
 
 <a href="https://github.com/nadiemedicejose">
@@ -21,13 +25,6 @@ Feel free to explore my LinkedIn profile, portfolio & other links. 😉
 <a href="https://github.com/nadiemedicejose">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nadiemedicejose&title_color=FFF&bg_color=000&show_icons=true&count_private=true&theme=dark" />
 </a>
-
-<hr>
-
-# What am I doing?
-
-📚 Learning about Data Visualization
-
 
 [1.1]: /tags/Portfolio.png "Portfolio"
 [2.1]: /tags/LinkedIn.png "LinkedIn"
