@@ -25,18 +25,8 @@ Feel free to explore my LinkedIn profile, portfolio & other links. 😉
 <hr>
 
 # What am I doing?
-😄 OPEN TO WORK
 
-🌱 Looking for a job
-
-📚 Learning about Data Visualization and Node.js
-
-# Education
-**B.S. in Sofware Engineering, GPA 97**
-
-Universidad Estatal de Sonora
-
-Aug 2017 — May 2021
+📚 Learning about Data Visualization
 
 
 [1.1]: /tags/Portfolio.png "Portfolio"
