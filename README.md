@@ -1,8 +1,13 @@
-# Jose Estrada | Software Engineer
+# Jose Estrada<br>Software Engineer
 
 Hi, thanks for getting interested in my profile! 👋🏽
 
 I'm a Software Engineer with knowledge in Object-Oriented Programming, Design Patterns, Data Structures, and Databases. I have experience building Desktop Applications using Java and C#; Web and Mobile using React, Angular, IONIC, and Flutter frameworks. Also, I have been a leader in Development Teams, where I actively collaborated in different stages of the Software Development Life Cycle. At college, I offered mentorship to other students through PASA Program (Academic Support and Follow-up Program).
+
+## What am I doing?
+
+- 👨🏽‍💻 I currently work at Lanix as Web Developer
+- 📚 I'm learning about Laravel, Data Visualization and MongoDB
 
 Feel free to explore my LinkedIn profile, portfolio & other links. 😉
 
@@ -12,10 +17,6 @@ Feel free to explore my LinkedIn profile, portfolio & other links. 😉
 [![alt text][4.1]][4]
 [![alt text][5.1]][5]
 [![alt text][6.1]][6]
-
-# What am I doing?
-
-📚 Learning about Laravel & Data Visualization
 
 <hr>
 
