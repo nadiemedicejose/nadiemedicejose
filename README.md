@@ -33,9 +33,9 @@ Feel free to explore my LinkedIn profile, portfolio & other links. 😉
 [5.1]: /tags/Medium.png "Medium"
 [6.1]: /tags/Dribbble.png "Dribble"
 
-[1]: https://nadiemedicejose.web.app
+[1]: https://desarrollandoconjose.com
 [2]: https://www.linkedin.com/in/nadiemedicejose/
-[3]: https://nadiemedicejose.web.app/resume
-[4]: mailto:jose.estrada@lanix.com
-[5]: https://nadiemedicejose.medium.com
+[3]: https://desarrollandoconjose.com/resume
+[4]: mailto:hola@desarrollandoconjose.com
+[5]: https://desarrollandoconjose.medium.com
 [6]: https://dribbble.com/nadiemedicejose
