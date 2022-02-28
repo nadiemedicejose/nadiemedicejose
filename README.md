@@ -2,14 +2,14 @@
 
 Hi, thanks for getting interested in my profile! 👋🏽
 
-I'm a Software Engineer with knowledge in Object-Oriented Programming, Design Patterns, Data Structures, and Databases. I have experience building Desktop Applications using Java and C#; Web and Mobile using React, Angular, IONIC, and Flutter frameworks. Also, I have been a leader in Development Teams, where I actively collaborated in different stages of the Software Development Life Cycle. At college, I offered mentorship to other students through PASA Program (Academic Support and Follow-up Program).
+I'm a Software Engineer with knowledge in Object-Oriented Programming, Design Patterns, Data Structures, and Databases. I have experience building Web Applications on Laravel, React, Angular, and IONIC frameworks. Also, I’ve been a leader in Development Teams, where I actively collaborated in different stages of the Software Development Life Cycle. At college, I offered mentorship to other students through the PASA Program.
+
+Feel free to explore my LinkedIn profile, portfolio & other links. 😉
 
 ## What am I doing?
 
-- 👨🏽‍💻 I currently work at Lanix as Web Developer
-- 📚 I'm learning about Laravel, Data Visualization and MongoDB
-
-Feel free to explore my LinkedIn profile, portfolio & other links. 😉
+- 👨🏽‍💻 Web Developer @ LANIX
+- 📚 Learning Laravel, Data Visualization, and MongoDB
 
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
@@ -34,9 +34,9 @@ Feel free to explore my LinkedIn profile, portfolio & other links. 😉
 [5.1]: /tags/Medium.png "Medium"
 [6.1]: /tags/Dribbble.png "Dribble"
 
-[1]: https://desarrollandoconjose.com
+[1]: https://nadiemedicejose.web.app
 [2]: https://www.linkedin.com/in/nadiemedicejose/
-[3]: https://desarrollandoconjose.com/resume
-[4]: mailto:hola@desarrollandoconjose.com
-[5]: https://desarrollandoconjose.medium.com
+[3]: https://nadiemedicejose.web.app/resume
+[4]: mailto:j.estrada49@icloud.com
+[5]: https://nadiemedicejose.medium.com
 [6]: https://dribbble.com/nadiemedicejose
