@@ -37,6 +37,6 @@ Feel free to explore my LinkedIn profile, portfolio & other links. 😉
 [1]: https://nadiemedicejose.web.app
 [2]: https://www.linkedin.com/in/nadiemedicejose/
 [3]: https://nadiemedicejose.web.app/resume
-[4]: mailto:j.estrada49@icloud.com
+[4]: mailto:nadiemedicejose@icloud.com
 [5]: https://nadiemedicejose.medium.com
 [6]: https://dribbble.com/nadiemedicejose
