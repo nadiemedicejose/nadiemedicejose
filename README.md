@@ -2,13 +2,13 @@
 
 Hi, thanks for getting interested in my profile! 👋🏽
 
-I'm a Software Engineer with knowledge in Object-Oriented Programming, Design Patterns, Data Structures, and Databases. I have experience building Web Applications on Laravel, React, Angular, and IONIC frameworks. Also, I’ve been a leader in Development Teams, where I actively collaborated in different stages of the Software Development Life Cycle. At college, I offered mentorship to other students through the PASA Program.
+I'm a Software Engineer with experience in Object-Oriented Programming, MVC pattern, Data Structures, and Relational Databases. I like to build Web Applications using Laravel for Back End, and React for the Front End. To keep version control, I enjoy using Git/Github. I'm an active collaborator in different stages of the Software Development Life Cycle.
 
 Feel free to explore my LinkedIn profile, portfolio & other links. 😉
 
 ## What am I doing?
 
-- 👨🏽‍💻 Web Developer @ LANIX
+- 👨🏽‍💻 Software Engineer @ Pinnacle Aerospace
 - 📚 Learning Laravel, Data Visualization, and MongoDB
 
 [![alt text][1.1]][1]
