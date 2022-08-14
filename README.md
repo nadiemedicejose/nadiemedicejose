@@ -27,12 +27,12 @@ Feel free to explore my LinkedIn profile, portfolio & other links. 😉
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nadiemedicejose&title_color=FFF&bg_color=000&show_icons=true&count_private=true&theme=dark" />
 </a>
 
-[1.1]: /tags/Portfolio.png "Portfolio"
-[2.1]: /tags/LinkedIn.png "LinkedIn"
-[3.1]: /tags/Resume.png "Resume"
-[4.1]: /tags/Email.png "Email"
-[5.1]: /tags/Medium.png "Medium"
-[6.1]: /tags/Dribbble.png "Dribble"
+[1.1]: /tags/Portfolio.svg "Portfolio"
+[2.1]: /tags/LinkedIn.svg "LinkedIn"
+[3.1]: /tags/Resume.svg "Resume"
+[4.1]: /tags/Email.svg "Email"
+[5.1]: /tags/Medium.svg "Medium"
+[6.1]: /tags/Dribbble.svg "Dribble"
 
 [1]: https://nadiemedicejose.web.app
 [2]: https://www.linkedin.com/in/nadiemedicejose/
