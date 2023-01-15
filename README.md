@@ -1,4 +1,4 @@
-# Jose Estrada<br>Software Engineer
+# Jose Estrada<br>Full Stack Web & Mobile Developer
 
 Hi, thanks for getting interested in my profile! 👋🏽
 
