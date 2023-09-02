@@ -1,4 +1,4 @@
-# Jose Estrada<br>Full Stack Web & Mobile Developer
+# Jose Estrada<br>React/TypeScript Developer
 
 Hi, thanks for getting interested in my profile! 👋🏽
 
