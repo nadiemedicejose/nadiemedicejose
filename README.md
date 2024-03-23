@@ -2,14 +2,14 @@
 
 Hi, thanks for getting interested in my profile! 👋🏽
 
-I'm a Software Engineer with experience in Object-Oriented Programming, MVC pattern, Data Structures, and Relational Databases. I like to build Web Applications using Laravel for Back End, and React for the Front End. To keep version control, I enjoy using Git/Github. I'm an active collaborator in different stages of the Software Development Life Cycle.
+Software Developer with over 3 years of experience building Web and Mobile Applications with React, React Native, TypeScript, Node.js, and Laravel frameworks. Proficient at deconstructing designs and translating wireframes into high quality code that can be reusable and maintainable over time. Strong knowledge in Object-Oriented Programming, React Patterns, Data Structures, and Databases.
 
 Feel free to explore my LinkedIn profile, portfolio & other links. 😉
 
 ## What am I doing?
 
 - 👨🏽‍💻 Software Engineer @ Pinnacle Aerospace
-- 📚 Learning Laravel, Data Visualization, and MongoDB
+- 📚 Learning Node.js, Flutter, and React Testing
 
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
@@ -34,9 +34,9 @@ Feel free to explore my LinkedIn profile, portfolio & other links. 😉
 [5.1]: /tags/Medium.svg "Medium"
 [6.1]: /tags/Dribbble.svg "Dribble"
 
-[1]: https://nadiemedicejose.web.app
+[1]: https://joseestrada.dev
 [2]: https://www.linkedin.com/in/nadiemedicejose/
-[3]: https://nadiemedicejose.web.app/resume
-[4]: mailto:nadiemedicejose@icloud.com
+[3]: https://joseestrada.dev/resume.pdf
+[4]: mailto:hello@joseestrada.dev
 [5]: https://nadiemedicejose.medium.com
 [6]: https://dribbble.com/nadiemedicejose
