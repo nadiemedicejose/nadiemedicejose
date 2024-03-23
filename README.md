@@ -2,7 +2,7 @@
 
 Hi, thanks for getting interested in my profile! 👋🏽
 
-Software Developer with over 3 years of experience building Web and Mobile Applications with React, React Native, TypeScript, Node.js, and Laravel frameworks. Proficient at deconstructing designs and translating wireframes into high quality code that can be reusable and maintainable over time. Strong knowledge in Object-Oriented Programming, React Patterns, Data Structures, and Databases.
+I'm a Software Developer with over 3 years of experience building Web and Mobile Applications with React, React Native, TypeScript, Node.js, and Laravel frameworks. Proficient at deconstructing designs and translating wireframes into high quality code that can be reusable and maintainable over time. Strong knowledge in Object-Oriented Programming, React Patterns, Data Structures, and Databases.
 
 Feel free to explore my LinkedIn profile, portfolio & other links. 😉
 
